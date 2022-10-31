@@ -7,7 +7,7 @@ Arduino project to drive servo and neopixels using MH-Tiny board
 
 ## MH-Tiny board
 
-[Arduino Tiny 88](./Documents/Arduino Tiny 88.pdf)
+[Arduino Tiny 88](./Documents/Arduino_Tiny_88.pdf)
 
 ## Arduino Sketch
 

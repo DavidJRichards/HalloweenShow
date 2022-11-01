@@ -1,6 +1,8 @@
 # HalloweenShow
 Arduino project to drive servo and neopixels using MH-Tiny board
 
+![boards](./mh-tiny-milo-boards.jpg)
+
 ## RCWL-0516 microwave radar sensor
 
 [rcwl-0516](./Documents/Datasheet_rcwl-0516.pdf)
